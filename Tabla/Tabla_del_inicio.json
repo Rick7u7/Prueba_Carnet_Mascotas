@@ -1,0 +1,4 @@
+[
+    {"id":1,"nombre":"Balto","vacuna":"Antirrabica","FechaAdministracion":"11/08/2020","FechaProximaDosis":"No especificada"},
+    {"id":2,"nombre":"Pichi","vacuna":"Monovalente","FechaAdministracion":"13/08/2020","FechaProximaDosis":"13/08/2025"}
+]
